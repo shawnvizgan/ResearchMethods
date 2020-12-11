@@ -274,7 +274,7 @@ There are now several online tools for creating online questionnaires. After a q
 
 There are also survey sites hosted in other countries outside of North America.
 
-Another new tool for survey researchers is Mechanical Turk (MTurk) created by Amazon.com <https://www.mturk.com> Originally created for simple usability testing, MTurk has a database of over 500,000 workers from over 190 countries4. You can put simple tasks (for example, different question wording to test your survey items), set parameters as your sample frame dictates and deploy your experiment at a very low cost (for example, a few cents for less than 5 minutes). MTurk has been lauded as an inexpensive way to gather high quality data [@buhrmester_amazons_2011].
+Another new tool for survey researchers is Mechanical Turk (MTurk) created by Amazon.com <https://www.mturk.com> Originally created for simple usability testing, MTurk has a database of over 500,000 workers from over 190 countries. You can put simple tasks (for example, different question wording to test your survey items), set parameters as your sample frame dictates and deploy your experiment at a very low cost (for example, a few cents for less than 5 minutes). MTurk has been lauded as an inexpensive way to gather high quality data [@buhrmester_amazons_2011].
 
 ### Key Takeaways
 
