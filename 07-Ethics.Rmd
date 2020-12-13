@@ -261,7 +261,7 @@ The remaining standards make some less obvious but equally important points. Res
 
     Code, the Declaration of Helsinki, the Belmont Report, and the Federal Policy for the Protection of Human Subjects.
 
--   The APA Ethics Code is the most important ethics code for researchers in psychology. It includes many standards that are relevant mainly to clinical practice, but Standard 8concerns informed consent, deception, debriefing, the use of nonhuman animal subjects, and scholarly integrity in research.
+-   The APA Ethics Code is the most important ethics code for researchers in psychology. It includes many standards that are relevant mainly to clinical practice, but Standard concerns informed consent, deception, debriefing, the use of nonhuman animal subjects, and scholarly integrity in research.
 
 -   Research conducted at universities, hospitals, and other institutions that receive support from the federal government must be reviewed by an institutional review board (IRB)—a committee at the institution that reviews research protocols to make sure they conform to ethical standards.
 
